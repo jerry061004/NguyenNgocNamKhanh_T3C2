@@ -27,10 +27,10 @@ Hiện tại, tôi đang đảm nhận vai trò **Scrum Master** cho dự án  *
 **Nhóm 6** của chúng tôi đang phát triển **Website nha khoa Happy Teeth**, sử dụng **JavaScript** và phần mềm **Visual Studio Code**. Website ra đời nhằm mục đích giúp khách hàng đặt lịch hẹn dễ hàng hơn, ít tốn thời gian hơn; về phía nha khoa sẽ dễ dàng quản lý các phiếu khám, quản lý bác sĩ,... giúp nha khoa hoạt động một cách hiệu quả hơn.
 
 ## 🌟 Công Nghệ đã sử dụng & Kỹ Năng
-- 💻**Lập trình C#**: 
-- 📱**Lập trình Android Studio**: 
-- 🖥**Lập trình SQL**:
-- ⌨️**JavaScript**:
+- 💻**Lập trình C#**
+- 📱**Lập trình Android Studio** 
+- 🖥**Lập trình SQL**
+- ⌨️**JavaScript**
 - 📊**Quản lý dự án**
 - 📑**Sử dụng những kĩ năng tin học văn phòng để làm những báo cáo và powerpoint**
 
